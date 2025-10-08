@@ -14,8 +14,7 @@
 ---
 
 ## About me
-As a third-year Informatics Engineering student at ISEP, I am passionate about technology and software development. I have strong problem-solving skills, attention to detail, and the ability to work both independently and in a team. My adaptability and eagerness to learn help me tackle challenges effectively.  
-While I strive for quality, I sometimes focus too much on details and can be self-critical, but this drives me to improve continuously.
+As a third-year Informatics Engineering student at ISEP, I am passionate about technology and software development. I have strong problem-solving skills, attention to detail, and the ability to work both independently and in a team. My adaptability and eagerness to learn help me tackle challenges effectively. While I strive for quality, I sometimes focus too much on details and can be self-critical, but this drives me to improve continuously.
 
 ## My Work Experience
 - **Developer - Ambidata, Digital Innovation Solutions & Consulting Lda. (2022-2023)** — Developed an Azure Service Hook for automated Pull Request Product Owner assignment, engineered a custom .NET download service for installing Azure Blob Storage add-ons via the Ambidata Server Updater, and created a Windows Forms application to control SyncSign E-labels using their local API.
