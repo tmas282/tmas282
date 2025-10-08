@@ -1,13 +1,14 @@
 <div align="center">
 
+![Tomás Moreira](https://images.weserv.nl/?url=https://github.com/tmas282.png?v=4&h=150&w=150&fit=cover&mask=circle&maxage=7d)
+
 # Tomás Moreira
 
 **Informatics Engineering Student @ ISEP** • **Software Developer**  
 📍 Porto, Portugal
 
 [![Email](https://img.shields.io/badge/Email-tomaspintomoreira28%40gmail.com-red?style=flat&logo=gmail)](mailto:tomaspintomoreira28@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B351%20932%20961%20514-green?style=flat&logo=phone&logoColor=white)](tel:+351932961514)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B351%20932%20961%20514-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/351932961514)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomás%20Moreira-0A66C2?style=flat&logo=linkedin)](linkedin.com/in/tomás-moreira-35a6011a1)
 </div>
 
 ---
@@ -17,13 +18,10 @@ As a third-year Informatics Engineering student at ISEP, I am passionate about t
 While I strive for quality, I sometimes focus too much on details and can be self-critical, but this drives me to improve continuously.
 
 ## My Work Experience
-- **Web Dev @ GS Improve (2025)** — core modules for an app focused on **emergency vehicle customization**: data modeling, APIs/services, integrations and deployment follow-up; helped define standards and improve performance.
-- **Web Dev @ JuniFEUP (2025)** — development of the **LBV (Legião da Boa Vontade)** website: new features, front↔back integration, API consumption and bug fixes to delivery.
-- **Barbot (2022–2023)** — internship: web app for **IT stock management** (inventory, check-in/out, alerts) + site optimizations; IT support and infra organization (AD, shares, patching).
+- **Developer - Ambidata, Digital Innovation Solutions & Consulting Lda. (2022-2023)** — Developed an Azure Service Hook for automated Pull Request Product Owner assignment, engineered a custom .NET download service for installing Azure Blob Storage add-ons via the Ambidata Server Updater, and created a Windows Forms application to control SyncSign E-labels using their local API.
 
 ## Featured projects
-- **Sports Club Management Platform (PAP – Final Secondary Project)** — full-stack platform for club operations.  
-- **Business Management Platform (LBV Website)** — team project with focus on architecture and code quality; development in collaboration with JuniFEUP.
+- **E-commerce Platform -SkinClock (PAP – Final Secondary Project)** — A dynamic React.JS and Express.JS platform for trading in-game items, featuring secure MB WAY payments, MySQL database, and user-friendly interface.
 
 ## Tech Stack
 #### **Front-End**
@@ -87,7 +85,6 @@ While I strive for quality, I sometimes focus too much on details and can be sel
 
 ## GitHub Stats
 ![tmas282's Stats](https://github-readme-stats.vercel.app/api?username=tmas282&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-![tmas282's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tmas282&theme=prussian&hide_border=true)
 ![tmas282's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmas282&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ---
