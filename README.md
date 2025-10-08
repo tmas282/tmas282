@@ -52,7 +52,7 @@ While I strive for quality, I sometimes focus too much on details and can be sel
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Oracle Express](https://img.shields.io/badge/Oracle%20Express-F80000?style=flat&logo=oracle&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-313131?style=flat&logo=H2&logoColor=white)
 
 #### **Operating Systems**
