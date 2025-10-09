@@ -82,8 +82,8 @@ As a third-year Informatics Engineering student at ISEP, I am passionate about t
 ---
 
 ## GitHub Stats
-![tmas282's Stats](https://github-readme-stats.vercel.app/api?username=tmas282&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-![tmas282's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmas282&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+![tmas282's Stats](https://github-readme-stats.vercel.app/api?username=tmas282&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+![tmas282's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmas282&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
