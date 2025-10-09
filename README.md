@@ -1,6 +1,6 @@
 <div align="center">
 
-![Tomás Moreira](https://images.weserv.nl/?url=https://github.com/tmas282.png?v=4&h=150&w=150&fit=cover&mask=circle&maxage=7d)
+![Tomás Moreira](https://images.weserv.nl/?url=https://github.com/tmas282.png?v=4&h=175&w=175&fit=cover&mask=circle&maxage=7d)
 
 # Tomás Moreira
 
