@@ -38,8 +38,6 @@ export const PROJECTS: Project[] = [
             {name: "Pandas", type: SkillType.SciFi},
             {name: "matplotlib", type: SkillType.SciFi},
             {name: "PyTorch", type: SkillType.SciFi},
-            {name: "TensorFlow", type: SkillType.SciFi},
-            {name: "Keras", type: SkillType.SciFi},
         ],
         links: [{
             title: "View Project →",
