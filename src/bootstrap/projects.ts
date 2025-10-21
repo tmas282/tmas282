@@ -30,6 +30,36 @@ export const PROJECTS: Project[] = [
         }]
     },
     {
+        title: "Stock Price Predictor",
+        description: "A Neural Network that predicts the next stock price. Built with PyTorch and trained on historical stock dataset.",
+        skills: [
+            {name: "Python", type: SkillType.SciFi},
+            {name: "NumPy", type: SkillType.SciFi},
+            {name: "Pandas", type: SkillType.SciFi},
+            {name: "matplotlib", type: SkillType.SciFi},
+            {name: "PyTorch", type: SkillType.SciFi},
+            {name: "TensorFlow", type: SkillType.SciFi},
+            {name: "Keras", type: SkillType.SciFi},
+        ],
+        links: [{
+            title: "View Project →",
+            link: "https://github.com/tmas282/stock-price-predictor"
+        }]
+    },
+    {
+        title: "Cancer Identifier",
+        description: "A Convolutional Neural Network that identifies lung tumors based on computed tomography scans. Built with TensorFlow + Keras and trained on anomalies + healthy lungs public dataset.",
+        skills: [
+            {name: "Python", type: SkillType.SciFi},
+            {name: "TensorFlow", type: SkillType.SciFi},
+            {name: "Keras", type: SkillType.SciFi},
+        ],
+        links: [{
+            title: "View Project →",
+            link: "https://github.com/tmas282/cancer-identifier"
+        }]
+    },
+    {
         title: "Jogo Plataforma",
         description: "Engaging Unity-built 2D platformer with vibrant visuals and smooth gameplay, showcased at ExpoCIC 2023, highlighting creative design and technical prowess.",
         skills: [
@@ -38,7 +68,7 @@ export const PROJECTS: Project[] = [
         ],
         links: [{
             title: "View Project →",
-            link: "/tmas282/projects/" + "Jogo_Plataforma.zip"
+            link: "https://github.com/tmas282/Jogo-Plataforma"
         }]
     },
     {
@@ -82,19 +112,6 @@ export const PROJECTS: Project[] = [
         }]
     },
     {
-        title: "Golo d'Or Bets",
-        description: "Python-powered sports analytics tool for predicting football match outcomes using web scraping, statistical modeling, and normal distribution analysis.",
-        skills: [
-            {name: "Python", type: SkillType.Lang},
-            {name: "SciPy", type: SkillType.SciFi},
-            {name: "NumPy", type: SkillType.SciFi},
-        ],
-        links: [{
-            title: "View Project →",
-            link: "/tmas282/projects/" + "golo_dor_bets.zip"
-        }]
-    },
-    {
         title: "MDISC Minimum Spanning Tree",
         description: "Innovative Java-based graph analysis tool leveraging Kruskal's algorithm for minimum spanning tree computation, featuring dynamic visualization and performance benchmarking for complex network datasets.",
         skills: [
@@ -114,4 +131,4 @@ export const PROJECTS: Project[] = [
             {name: "Framer", type: SkillType.FrontEnd},
         ]
     },
-]
+];
