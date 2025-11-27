@@ -31,7 +31,7 @@ export const PROJECTS: Project[] = [
     },
     {
         title: "Stock Price Predictor",
-        description: "A Neural Network that predicts the next stock price. Built with PyTorch and trained on historical stock dataset.",
+        description: "Built a financial data visualization tool using Python and mplfinance that overlays predictive trends on candlestick charts.",
         skills: [
             {name: "Python", type: SkillType.SciFi},
             {name: "NumPy", type: SkillType.SciFi},
@@ -81,7 +81,7 @@ export const PROJECTS: Project[] = [
         }]
     },
     {
-        title: "Integrative Project 3rd Semester",
+        title: "Industrial Production Management System",
         description: "Java-based industrial production management system integrating product engineering, production planning, and control with IoT sensor data, task scheduling, machine monitoring, TDD, and dynamic BOM/BOO visualizations.",
         skills: [
             {name: "Java", type: SkillType.Lang},
@@ -95,7 +95,7 @@ export const PROJECTS: Project[] = [
         }]
     },
     {
-        title: "Integrative Project 4th Semester",
+        title: "Showdrone",
         description: "Developed a full-stack, scalable drone show management system using Java, C, DSL, and simulation orchestration with CI/CD, DSL parsing, and real-time collision detection.",
         skills: [
             {name: "Java", type: SkillType.Lang},
