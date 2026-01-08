@@ -90,8 +90,8 @@ A dynamic React.js and Express.js platform for trading in-game items, featuring 
 ---
 
 ## GitHub Stats
-![tmas282's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmas282)
-![tmas282's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmas282&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
+![tmas282's GitHub stats](https://raw.githubusercontent.com/tmas282/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![tmas282's Top Languages](https://raw.githubusercontent.com/tmas282/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
 
